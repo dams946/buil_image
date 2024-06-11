@@ -31,7 +31,7 @@ jobs:
       with:
         context: ../.
         push: true
-        tags: username/repository:tag
+        tags: username/repository:latest
 
    
  #   - name: Build the hello-docker Docker image  # Step to build the Docker image
